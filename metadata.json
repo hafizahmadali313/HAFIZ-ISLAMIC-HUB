@@ -1,0 +1,8 @@
+{
+  "name": "HAFIZ ISLAMIC HUB",
+  "description": "Complete Islamic companion app with Holy Quran, Urdu translation, Prayer Times, Qibla Compass, Duas, 99 Names of Allah, Digital Tasbeeh, and Islamic Quiz. Developed by Hafiz Ahmad Ali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

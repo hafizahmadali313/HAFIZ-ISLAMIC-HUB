@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hafiz Islamic Hub</string>
+    <string name="app_brand_title">HAFIZ ISLAMIC HUB</string>
+    <string name="developer_attribution">Developed &amp; Managed By: HAFIZ AHMAD ALI</string>
+    <string name="developer_name_default">HAFIZ AHMAD ALI</string>
+    <string name="developer_title_default">App Builder &amp; Islamic Software Architect</string>
+    <string name="developer_bio_default">Dedicated to building serene, authentic, and ad-free Islamic digital tools for daily Quran recitation, accurate Salah timings, and spiritual reflection.</string>
+    <string name="welcome_salam">Assalamu Alaikum wa Rahmatullah</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_quran">Quran</string>
+    <string name="nav_prayers">Prayers</string>
+    <string name="nav_tasbeeh">Tasbeeh</string>
+    <string name="nav_settings">Settings</string>
+    <string name="channel_azan_name">Prayer &amp; Azan Alerts</string>
+    <string name="channel_azan_desc">Scheduled notifications for daily Salah times</string>
+    <string name="channel_reminder_name">Daily Islamic Reminders</string>
+    <string name="channel_reminder_desc">Daily Quranic verse and spiritual reminders</string>
+</resources>
